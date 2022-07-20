@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Junior Fullstack developer
+I'm a Junior Full-stack developer
 
 - 🔭 I’m currently improving: React.js skills
 - 🌱 I’m currently learning: Typescript fundamentals
